@@ -17,4 +17,5 @@ UnitPrice	Unit price. Numeric, product price per unit in sterling
 CustomerID	Customer number. Nominal, a six digit integral number uniquely assigned to each customer
 Country	Country name. Nominal, the name of the country where each customer resides
 
-[Customer_Segmentation.pptx](https://github.com/sid404/Retail-CustomerSegmentation/files/6103711/Customer_Segmentation.pptx)
+![RETAIL-Customer Segmentation](https://user-images.githubusercontent.com/40544530/110371681-51fc0f80-8073-11eb-8f64-d253b8326c9b.png)
+
